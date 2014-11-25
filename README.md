@@ -13,6 +13,12 @@ Use labels like `requirement` if it will need additional requirements, or `desig
 
 For example, here is the first issue in the tracker: "*[Make all fields sortable in the API](https://github.com/usnationalarchives/OPAProd/issues/1)*".
 
+### Tracking issue
+
+A *[tracking issue](https://wiki.mozilla.org/Engagement/Integrated_Marketing/Definitions#Tracking_Bug)* (or "tracking bug") is a type of issue report which is used to track all open issues related to a bigger component. The issue report itself is just about the component, and then related issues are listed in the summary and their status is continuously updated. The tracking issues should use the "[tracking issue](https://github.com/usnationalarchives/OPAProd/labels/tracking%20issue)" label, so that the label can be used to easily see summaries of all the major components.
+
+For example, [issue #8](https://github.com/usnationalarchives/OPAProd/issues/8) is a tracking bug for **advanced search**. It is currently tracking issues [#5](https://github.com/usnationalarchives/OPAProd/issues/5), [#6](https://github.com/usnationalarchives/OPAProd/issues/6), and [#7](https://github.com/usnationalarchives/OPAProd/issues/7), which are all related to advanced search.
+
 ## GitHub help
 
 GitHub uses *[Markdown](https://help.github.com/articles/markdown-basics/)* for formatting in issues. It's also how this file is displaying as formatted in the browser (hence the `.md` in `README.md`). You can use Markdown to hyperlink text, make bold and italic text, section headers, bulleted or numbered lists, and so on.
