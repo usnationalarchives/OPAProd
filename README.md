@@ -17,7 +17,7 @@ For example, here is the first issue in the tracker: "*[Make all fields sortable
 
 A *[tracking issue](https://wiki.mozilla.org/Engagement/Integrated_Marketing/Definitions#Tracking_Bug)* (or "tracking bug") is a type of issue report which is used to track all open issues related to a bigger component. The issue report itself is just about the component, and then related issues are listed in the summary and their status is continuously updated. The tracking issues should use the "[tracking issue](https://github.com/usnationalarchives/OPAProd/labels/tracking%20issue)" label, so that the label can be used to easily see summaries of all the major components.
 
-For example, [issue #8](https://github.com/usnationalarchives/OPAProd/issues/8) is a tracking bug for **advanced search**. It is currently tracking issues [#5](https://github.com/usnationalarchives/OPAProd/issues/5), [#6](https://github.com/usnationalarchives/OPAProd/issues/6), and [#7](https://github.com/usnationalarchives/OPAProd/issues/7), which are all related to advanced search.
+For example, [issue #8](https://github.com/usnationalarchives/OPAProd/issues/8) is a tracking issue for **advanced search**. It is currently tracking issues [#5](https://github.com/usnationalarchives/OPAProd/issues/5), [#6](https://github.com/usnationalarchives/OPAProd/issues/6), and [#7](https://github.com/usnationalarchives/OPAProd/issues/7), which are all related to advanced search.
 
 ## GitHub help
 
