@@ -1,7 +1,7 @@
-# OPA Prod issue tracker
+# National Archives Catalog issue tracker
 =======
 
-This is the project for tracking OPA issues. To create, view, or discuss issues, **[go directly to the tracker](https://github.com/usnationalarchives/OPAProd/issues)**. This tracker is visible to all members of the [OPA Prod team](https://github.com/orgs/usnationalarchives/teams/opa-prod).
+This is the project for tracking catalog issues. To create, view, or discuss issues, **[go directly to the tracker](https://github.com/usnationalarchives/OPAProd/issues)**. This tracker is visible to all members of the [OPA Prod team](https://github.com/orgs/usnationalarchives/teams/opa-prod).
 
 ## Label and milestones
 
